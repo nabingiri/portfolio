@@ -1,0 +1,35 @@
+{
+    "backgroundType": "gradient",
+    "plainBackgroundMode": "daylight",
+    "devIntro": "Nabin Giri",
+    "devDesc": "| Engineer | Programmer | Writer ",
+    "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+    "icons": [{
+            "id": 0,
+            "image": "fa-github",
+            "url": "https://github.com/NabinGiri",
+            "style": "socialicons"
+        },
+        {
+            "id": 1,
+            "image": "fa-linkedin",
+            "url": "https://www.linkedin.com/in/nabin-giri",
+            "style": "socialicons"
+        },
+        {
+            "id": 2,
+            "image": "fa-instagram",
+            "url": "https://www.instagram.com/nvngiri/",
+            "style": "socialicons"
+        }
+    ],
+    "instaLink": "https://www.instagram.com/",
+    "instaUsername": "nvngiri",
+    "instaQuerry": "/?__a=1",
+    "showInstaProfilePic": true,
+    "aboutDev": "I am a gradaute from Master's in Computer Science from the University of Central Missouri with major in Data Science. Solving one probelm at a time.",
+    "gitHubLink": "https://api.github.com/users/",
+    "gitHubUsername": "NabinGiri",
+    "gitHubQuerry": "/repos?sort=updated&direction=desc",
+    "projectsLength": 6
+}
