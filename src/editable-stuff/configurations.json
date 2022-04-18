@@ -2,7 +2,7 @@
     "backgroundType": "gradient",
     "plainBackgroundMode": "daylight",
     "devIntro": "Nabin Giri",
-    "devDesc": "| Engineer | Programmer | Writer ",
+    "devDesc": "| Researcher | Programmer | Learner ",
     "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
     "icons": [{
             "id": 0,
@@ -15,21 +15,15 @@
             "image": "fa-linkedin",
             "url": "https://www.linkedin.com/in/nabin-giri",
             "style": "socialicons"
-        },
-        {
-            "id": 2,
-            "image": "fa-instagram",
-            "url": "https://www.instagram.com/nvngiri/",
-            "style": "socialicons"
         }
     ],
     "instaLink": "https://www.instagram.com/",
     "instaUsername": "nvngiri",
     "instaQuerry": "/?__a=1",
     "showInstaProfilePic": true,
-    "aboutDev": "I am a gradaute from Master's in Computer Science from the University of Central Missouri with major in Data Science. Solving one probelm at a time.",
+    "aboutDev": "I am a PhD student at the University of Missouri, Columbia working on machine learning and bioinformatics. Currently, I am working on protein structure reconstruction using cryo-EM density map and I am learning about geometric deep learning",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "NabinGiri",
+    "gitHubUsername": "nabingiri",
     "gitHubQuerry": "/repos?sort=updated&direction=desc",
     "projectsLength": 6
 }
